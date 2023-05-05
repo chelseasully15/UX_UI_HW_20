@@ -1,0 +1,20 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .nav-item .active {
+    background-color: #007bff;
+  }
+  
+  .navbar {
+    padding: 1px 20px 1px 20px;
+  }
+  
+  title {
+    padding: 10px;
+  }
+  
+  .cardSection {
+    padding: 10px;
+  }
